@@ -22,7 +22,7 @@
   * Number of images : 100
   * Image size :  224x224x3
 
-!(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/Background_sample_images.png)
+!image (https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/Background_sample_images.png)
 
 
 * Folder: /Foreground
@@ -30,7 +30,7 @@
   * Number of images : 100
   * Image size :  100x100x4
 
-!(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/Foreground_sample_images.png)
+(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/Foreground_sample_images.png)
 
 
 * Overlayed FG_BG and Mask are placed at https://drive.google.com/drive/folders/1wQYOtVuu99L74sWx0FjWyP9At5zpRYHm
@@ -39,21 +39,21 @@
 * Description: 
   * Number of images: 400000
   * Image Size: 224x224x3
-!(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/Overlayed_fg_bg.png)  
+(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/Overlayed_fg_bg.png)  
   
   
 * Folder: /FG_BG_MASK
 * Description: 
   * Number of images: 400000
   * Image Size: 224x224x1
-!(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/fg_bg_mask.png)  
+(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/fg_bg_mask.png)  
   
   
 * Folder: /DEPTH_IMAGES
 * Description: 
   * Number of images: 400000
   * Image Size: 224x224x1
-!(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/fg_bg_mask.png)  
+(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/fg_bg_mask.png)  
   
   
 2. Data Creation process:
