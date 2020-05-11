@@ -53,7 +53,7 @@
 * Description: 
   * Number of images: 400000
   * Image Size: 224x224x1
-![](https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/fg_bg_mask.png)  
+![](https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/depth_image.png)  
   
   
 2. Data Creation process:
