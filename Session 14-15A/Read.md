@@ -22,10 +22,17 @@ Background, Foreground and Depth_Images are placed at https://drive.google.com/d
   * Number of images : 100
   * Image size :  224x224x3
 
-! 
+!(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/Background_sample_images.png)
 
 
-Foreground: /Foreground
+
+* Folder: /Foreground
+* Description: 
+  * Number of images : 100
+  * Image size :  224x224x3
+
+!(https://github.com/bharathts1507/TSAI-Assignments-EVA4/blob/master/Session%2014-15A/images/Foreground_sample_images.png)
+
 Depth_Images: DEPTH_IMAGES & DEPTH_IMAGES_2
 
 Overlayed FG_BG and Mask are placed at https://drive.google.com/drive/folders/1wQYOtVuu99L74sWx0FjWyP9At5zpRYHm
