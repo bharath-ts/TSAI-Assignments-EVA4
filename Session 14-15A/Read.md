@@ -1,6 +1,7 @@
 # Basketball Players Images Depth Estmation Model
 
 1. Data:
+
   100 Background images 
   200 Foreground images (100 + 100 flips)
   20 Positions of foreground overlayed on background
@@ -15,10 +16,13 @@
 2. Dataset location:
 
 Background, Foreground and Depth_Images are placed at https://drive.google.com/drive/u/2/folders/1fhv_7jYn8mBFv9PTnjyrY4nNVWS3COoM
-Contents: 
-Folder: /Background
-Description: Image_size : 224x224x3 
+ 
+* Folder: /Background
+* Description: 
+  * Number of images : 100
+  * Image size :  224x224x3
 
+! 
 
 
 Foreground: /Foreground
